@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node16",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "scripthost",
+      "es2020"
+    ],
+    "jsx": "preserve",
+    "types": [
+      "vite/client",
+      "vitest/globals"
+    ],
+    "strict": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "paths": {
+      "~/*": [
+        "./src/*"
+      ]
+    },
+    "allowJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "incremental": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+, "servers/server.js"  ],
+  "plugins": [
+    "@babel/plugin-transform-modules-commonjs"
+  ]
+}
