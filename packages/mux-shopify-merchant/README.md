@@ -100,10 +100,13 @@ Merchant User can:
 Navigate to the Ngrok forwarding url (eg. https://498d-142-198-14-32.ngrok.io)
 
 Click the `Authenticate` button
+![Screen Shot 2022-11-08 at 1 23 09 PM](https://user-images.githubusercontent.com/29506632/200651707-9b565ec2-2d9f-4d36-9056-9217204ebb4f.png)
 
 Follow steps to authenticate through the Shopify Admin API
+![Screen Shot 2022-11-08 at 1 25 00 PM](https://user-images.githubusercontent.com/29506632/200651726-391370ed-40d4-4137-ba81-9b748d9df6cd.png)
 
 On the live page
+![Screen Shot 2022-11-08 at 1 28 14 PM](https://user-images.githubusercontent.com/29506632/200651741-dfe6e502-9e2d-44eb-8797-be38861de9b3.png)
 
 - Click the Enable Camera Button
 - Click Start Streaming
